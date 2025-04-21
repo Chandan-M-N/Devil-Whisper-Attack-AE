@@ -1,0 +1,602 @@
+************************************
+epoch: 0 
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.9609 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.12368 and at utterance-end was 12.8824, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.8205 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.11896 and at utterance-end was 12.9035, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1573 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.14542 and at utterance-end was 12.8481, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 38.9448 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.2187 and at utterance-end was 12.9233, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.3329 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.17314 and at utterance-end was 12.8795, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.2071 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.14618 and at utterance-end was 12.9305, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.2288 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.16421 and at utterance-end was 12.8206, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.152 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.19688 and at utterance-end was 12.9827, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.4429 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.16403 and at utterance-end was 12.8257, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.7031 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.06361 and at utterance-end was 12.8801, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1013 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.10256 and at utterance-end was 12.8637, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.7353 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.14444 and at utterance-end was 12.8293, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.2762 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.10097 and at utterance-end was 12.7853, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.9504 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.1725 and at utterance-end was 12.9666, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.2842 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.19381 and at utterance-end was 13.0021, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.231 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.09936 and at utterance-end was 12.9088, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.5999 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.15963 and at utterance-end was 12.9183, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.7788 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.15236 and at utterance-end was 12.9336, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.3039 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.11674 and at utterance-end was 12.8905, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.0158 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.12263 and at utterance-end was 12.8888, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.5681 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.08047 and at utterance-end was 12.7744, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.4581 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.08072 and at utterance-end was 12.841, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.2623 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.08102 and at utterance-end was 12.8749, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.8988 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.07372 and at utterance-end was 12.8372, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.4646 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.05889 and at utterance-end was 12.8922, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.0811 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.08776 and at utterance-end was 12.8942, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.455 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.07247 and at utterance-end was 12.902, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.7795 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.10311 and at utterance-end was 12.9271, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.2631 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.06462 and at utterance-end was 12.9462, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.3321 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.09385 and at utterance-end was 12.8543, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.6625 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.12734 and at utterance-end was 12.8606, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.2681 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.10073 and at utterance-end was 12.9708, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.1692 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.16 and at utterance-end was 13.0193, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 33.8374 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.09201 and at utterance-end was 12.8961, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.8734 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.13383 and at utterance-end was 12.8339, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 33.9038 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.13735 and at utterance-end was 12.9443, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 33.6267 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.19143 and at utterance-end was 12.9758, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.5967 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.21106 and at utterance-end was 12.9732, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.9536 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.21412 and at utterance-end was 13.0498, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.0733 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.21023 and at utterance-end was 12.9509, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.4799 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.18235 and at utterance-end was 12.9389, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.6335 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.18409 and at utterance-end was 12.9738, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.0215 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.18161 and at utterance-end was 12.9176, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.6828 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.18503 and at utterance-end was 12.9682, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.7989 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.22249 and at utterance-end was 13.0163, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.6597 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.2258 and at utterance-end was 12.9807, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.5343 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.21346 and at utterance-end was 13.0224, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.0051 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.23816 and at utterance-end was 13.021, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.5184 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.17577 and at utterance-end was 13.0221, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.7283 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.22099 and at utterance-end was 13.0015, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.4705 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.19017 and at utterance-end was 12.9655, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.2645 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.24536 and at utterance-end was 12.9768, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 33.6414 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.20416 and at utterance-end was 12.976, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.032 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.22432 and at utterance-end was 12.9807, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.2747 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.20536 and at utterance-end was 12.9682, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.4888 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.22579 and at utterance-end was 13.0447, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.3284 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.22319 and at utterance-end was 13.0031, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.3087 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.2654 and at utterance-end was 13.056, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1848 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.23141 and at utterance-end was 12.9903, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1132 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.27089 and at utterance-end was 13.0586, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.6525 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.25602 and at utterance-end was 13.0526, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 34.6848 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.24239 and at utterance-end was 13.0474, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.7613 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.23932 and at utterance-end was 13.0346, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.4643 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.23419 and at utterance-end was 13.0026, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.177 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.24914 and at utterance-end was 13.0479, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.6361 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.24266 and at utterance-end was 12.9679, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1946 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.26845 and at utterance-end was 13.0285, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.4373 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30431 and at utterance-end was 13.0615, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.0277 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.28277 and at utterance-end was 13.0651, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.5165 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30765 and at utterance-end was 13.1169, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1617 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30231 and at utterance-end was 13.1265, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.5849 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.25969 and at utterance-end was 13.0555, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1637 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30857 and at utterance-end was 13.1152, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.5814 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.27837 and at utterance-end was 13.0665, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.2307 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.28629 and at utterance-end was 13.1062, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.7278 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.25074 and at utterance-end was 12.999, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.3834 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.27094 and at utterance-end was 12.9802, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.9285 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.27899 and at utterance-end was 13.0523, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.4391 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.26292 and at utterance-end was 13.0323, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.8096 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.29483 and at utterance-end was 13.0433, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.0648 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.26396 and at utterance-end was 12.9976, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.5608 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30121 and at utterance-end was 13.0589, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.0884 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.31827 and at utterance-end was 13.0867, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.5139 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.2884 and at utterance-end was 12.983, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.4282 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.26467 and at utterance-end was 13.0541, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.5732 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.28246 and at utterance-end was 13.0274, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.5791 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.29543 and at utterance-end was 13.0639, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.3886 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.29542 and at utterance-end was 13.0247, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 38.1041 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30455 and at utterance-end was 13.0709, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.7226 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.26085 and at utterance-end was 13.0213, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.8738 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.32459 and at utterance-end was 13.0914, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.1795 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.30676 and at utterance-end was 13.0764, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.5208 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.31229 and at utterance-end was 13.1503, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.2246 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.26306 and at utterance-end was 13.018, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.0138 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.31156 and at utterance-end was 13.098, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.5762 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.34224 and at utterance-end was 13.1209, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 37.524 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.32263 and at utterance-end was 13.0377, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.9248 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.33299 and at utterance-end was 13.0617, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 36.3157 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.27428 and at utterance-end was 12.9932, over 500 frames (weighted);  expected length is 10
+ivector-extract-online2 --verbose=1 --config=model/aspire/ivector_extractor.conf --ivector-period=10 ark:model/spk/spk_map.scp scp:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_mfcc_map.scp ark,scp,t:/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector.ark,/home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_ivector_map.scp 
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+LOG (ivector-extract-online2[5.5.552~1-d97f]:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:177) Estimated iVectors for 1 files, 0 with errors.
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:179) Average objective-function improvement was 35.7937 per frame, over 500 frames (weighted).
+LOG (ivector-extract-online2[5.5.552~1-d97f]:main():ivector-extract-online2.cc:182) Average iVector length was 6.32575 and at utterance-end was 13.1924, over 500 frames (weighted);  expected length is 10

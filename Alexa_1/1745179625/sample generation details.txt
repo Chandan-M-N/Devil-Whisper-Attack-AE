@@ -1,0 +1,26 @@
+start time: 1745179625
+target command: alexa play music
+music_path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/music/originalmusic1.wav 
+mini noise value: 1000 
+aspire noise value: 1000 
+mini pdf-id file path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/alexa/pdf-id/mini/Echo_010_minipdf_play_music.csv 
+aspire pdf-id file path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/alexa/pdf-id/aspire/Echo_010_aspirepdf_play_music.csv 
+mini step nums in every epoch: 100 
+aspire step nums in every epoch: 100
+mini modification threshold: 9000
+aspire modification threshold: 9000
+generate only: True
+kaldi log on screen: False
+using early stop: True
+stop threthold: -0.01
+using api decode: False
+
+
+alexa func
+generating epoch: 0
+last sample path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/alexa/1745179625/0/audio_sample/WAA-alexa-ASPIRE-Sample-0-68.wav
+
+
+alexa func
+generating epoch: 1
+last sample path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/alexa/1745179625/1/audio_sample/WAA-alexa-MINI-Sample-1-99.wav

@@ -1,0 +1,26 @@
+start time: 1745128822
+target command: turn off the light
+music_path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/music/originalmusic1.wav 
+mini noise value: 1000 
+aspire noise value: 1000 
+mini pdf-id file path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/pdf-id/mini/Google_050_minipdf_navigate_to_my_home.csv 
+aspire pdf-id file path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/pdf-id/aspire/Google_050_aspirepdf_navigate_to_my_home.csv 
+mini step nums in every epoch: 150 
+aspire step nums in every epoch: 100
+mini modification threshold: 9000
+aspire modification threshold: 9000
+generate only: True
+kaldi log on screen: False
+using early stop: True
+stop threthold: -0.01
+using api decode: True
+
+
+google func
+generating epoch: 0
+last sample path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/0/audio_sample/WAA-google-ASPIRE-Sample-0-99.wav
+
+
+google func
+generating epoch: 1
+last sample path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745128822/1/audio_sample/WAA-google-MINI-Sample-1-149.wav

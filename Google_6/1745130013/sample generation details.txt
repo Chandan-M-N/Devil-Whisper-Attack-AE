@@ -1,0 +1,26 @@
+start time: 1745130013
+target command: take a picture
+music_path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/music/originalmusic1.wav 
+mini noise value: 1000 
+aspire noise value: 1000 
+mini pdf-id file path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/pdf-id/mini/Google_020_minipdf_take_a_picture.csv 
+aspire pdf-id file path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/pdf-id/aspire/Google_020_aspirepdf_take_a_picture.csv 
+mini step nums in every epoch: 100 
+aspire step nums in every epoch: 100
+mini modification threshold: 9000
+aspire modification threshold: 9000
+generate only: True
+kaldi log on screen: False
+using early stop: True
+stop threthold: -0.01
+using api decode: True
+
+
+google func
+generating epoch: 0
+last sample path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745130013/0/audio_sample/WAA-google-ASPIRE-Sample-0-99.wav
+
+
+google func
+generating epoch: 1
+last sample path: /home/testDevilWhisper/kaldi/egs/mini_librispeech/s5/bin/google/1745130013/1/audio_sample/WAA-google-MINI-Sample-1-99.wav
